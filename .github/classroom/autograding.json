@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "1",
+      "setup": "",
+      "run": "./a.exe",
+      "input": "5",
+      "output": "50",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    }
+  ]
+}
